@@ -6,3 +6,4 @@ d = c * a
 print(d)
 e = c / a
 print(e)
+print(d*e)
